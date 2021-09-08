@@ -1,0 +1,54 @@
+{
+  "name": "Todo App",
+  "short_name": "TodoApp",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFE9D2",
+  "theme_color": "#FFE1C4",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": "true",
+  "icons": [
+    {
+      "src": "/img/icons/16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any maskable"
+
+    },
+    {
+      "src": "/img/icons/24x24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "/img/icons/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/icons/64x64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/img/icons/128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/icons/256x256.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/img/icons/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
